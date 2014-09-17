@@ -1,7 +1,7 @@
-owl-app
+square-angular
 =======
 
-AngularJS Businessplans UI 
+Sandbox to learn how to use the square v1.2.1 theme
 
 To get started run:
 npm install
