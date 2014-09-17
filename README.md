@@ -1,4 +1,9 @@
-angular-square
-==============
+owl-app
+=======
 
-Learning how to use the square template
+AngularJS Businessplans UI 
+
+To get started run:
+npm install
+bower install
+grunt server
